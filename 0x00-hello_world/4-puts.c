@@ -5,9 +5,9 @@
  *  * main - print the string in the put function
  *
  *   *Description: Using the main function
- *   this program prints "Programming is like building a multilingual puzzle"
+ *   this program prints Programming is like building a multilingual puzzle
  *
- *    * Return: Always 0 (Success)
+ *    * Return: Always (Success)
  *
  *     */
 int main(void)
