@@ -2,7 +2,7 @@
 
 /**
  *   main - print the string in the put function
- *   Description: Using the main function
+ *  
  *   Return zero Always (Success)
  */
 int main(void)
