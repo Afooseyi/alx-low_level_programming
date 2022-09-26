@@ -2,7 +2,8 @@ nclude "main.h"
 #include <stddef.h>
 
 /**
- * _strpbrk - a function that searches a string for any of a set of bytes
+ * _strpbrk - a function that searches a string for
+ * any of a set of bytes
  * @s: String to be searched
  * @accept: String to be searched for
  * Return: The pointer to the first occurence
