@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
   * leet - Converts to leet format
  ** @s: string to be formatted
