@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * _strncat - Concatenates one string to another
  * @dest: Destination string
