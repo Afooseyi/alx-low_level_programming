@@ -1,11 +1,12 @@
-#include "main.h"
+#include <stdio.h>
+#include <main.h>
 #include <stdlib.h>
 /**
  * _calloc - allocates memory for an array.
  ** @nmemb: number of elements.
  * @size: size of bytes.
  * Return: pointer to the allocated memory.
- * if nmemb or size is 0, returns NULL.
+ * if nmemb or size is zero, returns NULL.
  * if malloc fails, returns NULL.
  */
 
