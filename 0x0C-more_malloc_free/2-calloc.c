@@ -2,9 +2,9 @@
 #include <main.h>
 #include <stdlib.h>
 /**
- * _calloc - allocates memory for an array.
- ** @nmemb: number of elements.
- * @size: size of bytes.
+ * _calloc - allocates memory dynamically for an array.
+ * @nmemb: length of the array
+ * @size: size of the memory
  * Return: pointer to the allocated memory.
  */
 
